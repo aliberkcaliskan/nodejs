@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "aliberkcaliskan",
+      "password": "123"
+    },
+    {
+      "userName": "ozgurk",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "income": [
+    {
+      "income": "400000",
+      "id": 1
+    },
+    {
+      "income": 0,
+      "id": 2
+    }
+  ],
+  "expense": [
+    {
+      "expense": "100",
+      "expenseName": "Furka",
+      "date": "09.05.2022",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "expense": "200",
+      "expenseName": "furakn2",
+      "date": "10.05.2022",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "expense": "3232",
+      "expenseName": "sdfsdf",
+      "date": "02.05.2022",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "expense": "324324",
+      "expenseName": "32423432",
+      "date": "05.05.2022",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "expense": "65000",
+      "expenseName": "Trr",
+      "date": "02.05.2022",
+      "userId": 1,
+      "id": 5
+    }
+  ]
+}

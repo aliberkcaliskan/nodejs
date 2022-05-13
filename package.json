@@ -1,0 +1,17 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "Book Store API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "json-server --watch db.json"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
