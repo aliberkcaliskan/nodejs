@@ -13,7 +13,7 @@
   ],
   "income": [
     {
-      "income": "3000",
+      "income": "80000",
       "id": 1
     },
     {
@@ -22,18 +22,32 @@
   ],
   "expense": [
     {
-      "expense": "200",
-      "expenseName": "test",
-      "date": "10.05.2022",
-      "userId": 1,
-      "id": 1
-    },
-    {
-      "expense": "200",
-      "expenseName": "test2",
-      "date": "25.05.2022",
+      "expense": "3000",
+      "expenseName": "conta",
+      "date": "15.05.2022",
       "userId": 1,
       "id": 2
+    },
+    {
+      "expense": "2000",
+      "expenseName": "motor kapağı",
+      "date": "15.05.2022",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "expense": "3000",
+      "expenseName": "silindir",
+      "date": "11.05.2022",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "expense": "2200",
+      "expenseName": "radyatör",
+      "date": "15.05.2022",
+      "userId": 1,
+      "id": 5
     }
   ]
 }
